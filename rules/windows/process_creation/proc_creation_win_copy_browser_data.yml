@@ -25,7 +25,7 @@ detection:
             - 'copy'
             - 'cpi '
             - ' cp '
-            - 'move'
+            - ' move'
             - 'move-item'
             - ' mi '
             - ' mv '
